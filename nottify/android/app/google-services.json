@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901190633253",
+    "project_id": "nottify-flutter-app",
+    "storage_bucket": "nottify-flutter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901190633253:android:08b7e7baab65e87bd47ccc",
+        "android_client_info": {
+          "package_name": "com.example.nottify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2qvendze13KpCnOWFSMmyX0AqMkgYnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
